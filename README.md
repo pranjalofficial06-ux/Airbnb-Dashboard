@@ -39,6 +39,8 @@ Superhost presence, average price by room type, and guest ratings.
   bookmarks/buttons for navigation
 
 Screenshots
+https://github.com/pranjalofficial06-ux/Airbnb-Dashboard/blob/main/Airbnb_pic.png
+
 
 
   
