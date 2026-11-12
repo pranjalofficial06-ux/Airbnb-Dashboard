@@ -38,9 +38,9 @@ Superhost presence, average price by room type, and guest ratings.
 - **Data Visualization** – Pareto chart, line chart, heatmap/matrix, KPI cards, 
   bookmarks/buttons for navigation
 
-Screenshots
-https://github.com/pranjalofficial06-ux/Airbnb-Dashboard/blob/main/Airbnb_pic.png
+Screenshots:
 
+https://github.com/pranjalofficial06-ux/Airbnb-Dashboard/blob/main/Airbnb_pic.png
 https://github.com/pranjalofficial06-ux/Airbnb-Dashboard/blob/main/Airbnb_pic2.png
 
 
